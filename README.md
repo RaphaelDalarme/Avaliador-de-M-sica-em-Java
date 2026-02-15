@@ -60,7 +60,7 @@ Estruturação de um mini sistema baseado em objetos
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/RaphaelDalarme/praticante-de-M-sica-em-Java.git
 
 
 Abra em sua IDE Java (IntelliJ, Eclipse ou VS Code).
